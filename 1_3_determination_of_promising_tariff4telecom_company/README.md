@@ -1,6 +1,9 @@
-Анализ стоимости жилья 
+Определение перспективного тарифа 
 
 Используемые библиотеки:
-- pandas
+- pandas 
+- math
+- seaborn
 - matplotlib
-- warnings
+- numpy 
+- scipy
