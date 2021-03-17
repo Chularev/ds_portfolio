@@ -1,7 +1,8 @@
-Анализ спроса пассажиров на рейсы.
+Определение возраста покупателей.
 
 Используемые библиотеки:
-- pandas 
+- tensorflow.keras
+- numpy
+- pandas
 - seaborn
 - matplotlib
-- numpy
