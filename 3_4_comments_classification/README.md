@@ -1,9 +1,11 @@
-Прогноз заказов такси на следующий час.
+Классификатор комментариев.
 
 Используемые библиотеки:
 - pandas
-- statsmodels
+- nltk
+- re 
 - warnings
-- matplotlib
+- pymystem3
+- seaborn 
+- matplotlib.pyplot
 - sklearn
-- lightgbm
