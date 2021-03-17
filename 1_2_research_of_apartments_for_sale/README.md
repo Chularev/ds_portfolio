@@ -1,7 +1,6 @@
-Кредитный скоринг
+Анализ стоимости жилья 
 
 Используемые библиотеки:
 - pandas
+- matplotlib
 - warnings
-- random
-- pymystem3
